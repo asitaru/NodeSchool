@@ -1,0 +1,19 @@
+{
+  "name": "electron-nodeschool",
+  "version": "1.0.0",
+  "description": "An introductory electron app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cat",
+    "electron"
+  ],
+  "author": "Andrei Sitaru",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
